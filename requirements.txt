@@ -8,3 +8,4 @@ matplotlib
 python-dotenv
 gurobipy
 rich
+colorama
